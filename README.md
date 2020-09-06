@@ -6,7 +6,10 @@ Welcome to this mission to Mars! This is a web scraping project which uses Beaut
   * Mars Weather
   * Mars Hemispheres Images
   
- 2. Create a web application using MongoDB and Flask to render the scraped information using HTML.
+ 2. Create a web application using MongoDB and Flask to render the scraped information using HTML.<br>
+ The following screenshot shows the code results after the last commit of the current project:
+ ![mars-scrape](https://github.com/JaviSandoval94/web-scraping-challenge/blob/master/Missions_to_Mars/pictures/Mars-web-app-1-updated.PNG)
+ ![mars-scrape-hemispheres](https://github.com/JaviSandoval94/web-scraping-challenge/blob/master/Missions_to_Mars/pictures/Mars-web-app-2-updated.PNG)
  
  # Data sets
  All the data from this project was scraped from the following sites:
