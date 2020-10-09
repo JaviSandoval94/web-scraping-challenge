@@ -1,5 +1,5 @@
 # Mission to Mars
-![mission-to-mars](https://github.com/JaviSandoval94/web-scraping-challenge/blob/master/Missions_to_Mars/pictures/mission_to_mars.PNG)
+![mission-to-mars](https://github.com/JaviSandoval94/web-scraping-challenge/blob/master/Missions_to_Mars/pictures/mission_to_mars.png)
 Welcome to this mission to Mars! This is a web scraping project which uses BeautifulSoup, Selenium, Splinter, MongoDB and the Pymongo library to scrape the web and retrieve news, facts and pictures of our red neighbor from different web sources. The results are displayed in a web application made using HTML.
 
 ## Step 1
