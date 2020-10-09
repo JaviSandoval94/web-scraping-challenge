@@ -19,7 +19,7 @@ The code uses Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter to 
  All the data from this project was scraped from the following sites:
  ### Nasa Mars News Site
  This site contains news related to Mars expeditions and observations.
- [Nasa Mars News Site](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest)
+ * [Nasa Mars News Site](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest)
  ### Jet Propulsion Laboratory NASA
  This site was accessed to retrieve the Mars featured image of the day.
  * [Mars Featured Image - Jet Propulsion Laboratory NASA](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
