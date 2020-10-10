@@ -8,11 +8,12 @@ The code uses Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter to 
   * JPL Mars Space Images - Featured Image
   * Mars Weather
   * Mars Hemispheres Images
+ 
 The scraping code was first tested in the `mission_to_mars.ipynb` Jupyter Notebook and afterwards captured in the `scrape` function of the `scrape_mars.py` Python file. The final results are returned by the function in a dictionary called `mars_data`, which contains all the scraped information and is imported into the Flask server during the next step.
  ## Step 2
  A web application was created using MongoDB and Flask in the `app.py` Python file. The `scrape_mars.py` file is imported into this file to run the scrape function from the Flask server. To run this step, a database was created using MongoDB to save the scrape results.
  ## Step 3
- Finally, the scraped data was visualized in an HTML file which responds to the Flask request. The following screenshot shows the code results after the last commit of the current project:
+Finally, the scraped data was visualized in an HTML file which responds to the Flask request. The following screenshot shows the code results after the last commit of the current project:<br>
  ![mars-scrape](https://github.com/JaviSandoval94/web-scraping-challenge/blob/master/Missions_to_Mars/pictures/Mars-web-app-1-updated.PNG)
  ![mars-scrape-hemispheres](https://github.com/JaviSandoval94/web-scraping-challenge/blob/master/Missions_to_Mars/pictures/Mars-web-app-2-updated.PNG)
  
