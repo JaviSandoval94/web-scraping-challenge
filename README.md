@@ -36,4 +36,4 @@ Finally, the scraped data was visualized in an HTML file which responds to the F
  * [Mars Hemispheres Images](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
  
  ## Technical details
-Please note that this project requires installation of MongoDB and the creation of a database to save the srape results. Also make sure to install the [Splinter web driver](https://splinter.readthedocs.io/en/latest/drivers/chrome.html) and have the `chromedriver.exe` file in your working directory.
+Please note that this project requires installation of MongoDB and the creation of a database to save the scrape results. Also make sure to install the [Splinter web driver](https://splinter.readthedocs.io/en/latest/drivers/chrome.html) and have the `chromedriver.exe` file in your working directory.
